@@ -1,0 +1,331 @@
+Group: Group 1
+Gene: AT4G09650
+Name: 
+Description: 
+Gene Ontologies: {"0015979"=>"photosynthesis", "0009773"=>"photosynthetic electron transport in photosystem I", "0009772"=>"photosynthetic electron transport in photosystem II", "0015986"=>"proton motive force-driven AT synthesis", "0009409"=>"response to cold", "0035556"=>"intracellular signal transduction"}
+Kegg Pathways: {"ath00190"=>"Oxidative phosphorylation", "ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G03130
+Name: 
+Description: 
+Gene Ontologies: {"0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT4G17460
+Name: 
+Description: 
+Gene Ontologies: {"0003006"=>"developmental process involved in reproduction", "0010582"=>"floral meristem determinacy", "0080127"=>"fruit septum development", "0048467"=>"gynoecium development"}
+Kegg Pathways: {}
+
+Gene: AT1G37130
+Name: 
+Description: 
+Gene Ontologies: {"0042128"=>"nitrate assimilation", "0006809"=>"nitric oxide biosynthetic process", "0009635"=>"response to herbicide", "0009416"=>"response to light stimulus", "0009610"=>"response to symbiotic fungus"}
+Kegg Pathways: {"ath00910"=>"Nitrogen metabolism", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT5G15850
+Name: 
+Description: 
+Gene Ontologies: {"0009909"=>"regulation of flower development", "0000398"=>"mRNA splicing, via spliceosome"}
+Kegg Pathways: {}
+
+Gene: AT5G17300
+Name: 
+Description: 
+Gene Ontologies: {"0009734"=>"auxin-activated signaling pathway", "0007623"=>"circadian rhythm", "0010600"=>"regulation of auxin biosynthetic process", "0006355"=>"regulation of DNA-templated transcription", "0016567"=>"protein ubiquitination"}
+Kegg Pathways: {}
+
+Gene: AT1G54040
+Name: 
+Description: 
+Gene Ontologies: {"0042742"=>"defense response to bacterium", "0019762"=>"glucosinolate catabolic process", "0010150"=>"leaf senescence", "0080028"=>"nitrile biosynthetic process", "0009753"=>"response to jasmonic acid"}
+Kegg Pathways: {}
+
+Gene: AT3G21870
+Name: 
+Description: 
+Gene Ontologies: {"0007049"=>"cell cycle", "0051301"=>"cell division", "0000079"=>"regulation of cyclin-dependent protein serine/threonine kinase activity"}
+Kegg Pathways: {}
+
+Gene: AT1G76080
+Name: 
+Description: 
+Gene Ontologies: {"0045454"=>"cell redox homeostasis", "0042742"=>"defense response to bacterium", "0010286"=>"heat acclimation", "0006979"=>"response to oxidative stress", "0009414"=>"response to water deprivation"}
+Kegg Pathways: {}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT1G03130
+Name: 
+Description: 
+Gene Ontologies: {"0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT4G17460
+Name: 
+Description: 
+Gene Ontologies: {"0003006"=>"developmental process involved in reproduction", "0010582"=>"floral meristem determinacy", "0080127"=>"fruit septum development", "0048467"=>"gynoecium development"}
+Kegg Pathways: {}
+
+Gene: AT1G37130
+Name: 
+Description: 
+Gene Ontologies: {"0042128"=>"nitrate assimilation", "0006809"=>"nitric oxide biosynthetic process", "0009635"=>"response to herbicide", "0009416"=>"response to light stimulus", "0009610"=>"response to symbiotic fungus"}
+Kegg Pathways: {"ath00910"=>"Nitrogen metabolism", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT5G15850
+Name: 
+Description: 
+Gene Ontologies: {"0009909"=>"regulation of flower development", "0000398"=>"mRNA splicing, via spliceosome"}
+Kegg Pathways: {}
+
+Gene: AT5G17300
+Name: 
+Description: 
+Gene Ontologies: {"0009734"=>"auxin-activated signaling pathway", "0007623"=>"circadian rhythm", "0010600"=>"regulation of auxin biosynthetic process", "0006355"=>"regulation of DNA-templated transcription", "0016567"=>"protein ubiquitination"}
+Kegg Pathways: {}
+
+Gene: AT1G54040
+Name: 
+Description: 
+Gene Ontologies: {"0042742"=>"defense response to bacterium", "0019762"=>"glucosinolate catabolic process", "0010150"=>"leaf senescence", "0080028"=>"nitrile biosynthetic process", "0009753"=>"response to jasmonic acid"}
+Kegg Pathways: {}
+
+Gene: AT3G21870
+Name: 
+Description: 
+Gene Ontologies: {"0007049"=>"cell cycle", "0051301"=>"cell division", "0000079"=>"regulation of cyclin-dependent protein serine/threonine kinase activity"}
+Kegg Pathways: {}
+
+Gene: AT1G76080
+Name: 
+Description: 
+Gene Ontologies: {"0045454"=>"cell redox homeostasis", "0042742"=>"defense response to bacterium", "0010286"=>"heat acclimation", "0006979"=>"response to oxidative stress", "0009414"=>"response to water deprivation"}
+Kegg Pathways: {}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT4G17460
+Name: 
+Description: 
+Gene Ontologies: {"0003006"=>"developmental process involved in reproduction", "0010582"=>"floral meristem determinacy", "0080127"=>"fruit septum development", "0048467"=>"gynoecium development"}
+Kegg Pathways: {}
+
+Gene: AT1G76080
+Name: 
+Description: 
+Gene Ontologies: {"0045454"=>"cell redox homeostasis", "0042742"=>"defense response to bacterium", "0010286"=>"heat acclimation", "0006979"=>"response to oxidative stress", "0009414"=>"response to water deprivation"}
+Kegg Pathways: {}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT1G37130
+Name: 
+Description: 
+Gene Ontologies: {"0042128"=>"nitrate assimilation", "0006809"=>"nitric oxide biosynthetic process", "0009635"=>"response to herbicide", "0009416"=>"response to light stimulus", "0009610"=>"response to symbiotic fungus"}
+Kegg Pathways: {"ath00910"=>"Nitrogen metabolism", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT5G17300
+Name: 
+Description: 
+Gene Ontologies: {"0009734"=>"auxin-activated signaling pathway", "0007623"=>"circadian rhythm", "0010600"=>"regulation of auxin biosynthetic process", "0006355"=>"regulation of DNA-templated transcription", "0016567"=>"protein ubiquitination"}
+Kegg Pathways: {}
+
+Gene: AT3G21870
+Name: 
+Description: 
+Gene Ontologies: {"0007049"=>"cell cycle", "0051301"=>"cell division", "0000079"=>"regulation of cyclin-dependent protein serine/threonine kinase activity"}
+Kegg Pathways: {}
+
+Gene: AT1G76080
+Name: 
+Description: 
+Gene Ontologies: {"0045454"=>"cell redox homeostasis", "0042742"=>"defense response to bacterium", "0010286"=>"heat acclimation", "0006979"=>"response to oxidative stress", "0009414"=>"response to water deprivation"}
+Kegg Pathways: {}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT5G15850
+Name: 
+Description: 
+Gene Ontologies: {"0009909"=>"regulation of flower development", "0000398"=>"mRNA splicing, via spliceosome"}
+Kegg Pathways: {}
+
+Gene: AT2G43010
+Name: 
+Description: 
+Gene Ontologies: {"0009704"=>"de-etiolation", "0009638"=>"phototropism", "0010161"=>"red light signaling pathway", "0010017"=>"red or far-red light signaling pathway", "0009585"=>"red, far-red light phototransduction", "0010600"=>"regulation of auxin biosynthetic process", "0010928"=>"regulation of auxin mediated signaling pathway", "0010244"=>"response to low fluence blue light stimulus by blue low-fluence system"}
+Kegg Pathways: {"ath04075"=>"Plant hormone signal transduction"}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT5G17300
+Name: 
+Description: 
+Gene Ontologies: {"0009734"=>"auxin-activated signaling pathway", "0007623"=>"circadian rhythm", "0010600"=>"regulation of auxin biosynthetic process", "0006355"=>"regulation of DNA-templated transcription", "0016567"=>"protein ubiquitination"}
+Kegg Pathways: {}
+
+Gene: AT1G71030
+Name: 
+Description: 
+Gene Ontologies: {"0009718"=>"anthocyanin-containing compound biosynthetic process", "0030154"=>"cell differentiation", "0010023"=>"proanthocyanidin biosynthetic process"}
+Kegg Pathways: {}
+
+Gene: AT1G76080
+Name: 
+Description: 
+Gene Ontologies: {"0045454"=>"cell redox homeostasis", "0042742"=>"defense response to bacterium", "0010286"=>"heat acclimation", "0006979"=>"response to oxidative stress", "0009414"=>"response to water deprivation"}
+Kegg Pathways: {}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT1G54040
+Name: 
+Description: 
+Gene Ontologies: {"0042742"=>"defense response to bacterium", "0019762"=>"glucosinolate catabolic process", "0010150"=>"leaf senescence", "0080028"=>"nitrile biosynthetic process", "0009753"=>"response to jasmonic acid"}
+Kegg Pathways: {}
+
+Gene: AT3G21870
+Name: 
+Description: 
+Gene Ontologies: {"0007049"=>"cell cycle", "0051301"=>"cell division", "0000079"=>"regulation of cyclin-dependent protein serine/threonine kinase activity"}
+Kegg Pathways: {}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT3G21870
+Name: 
+Description: 
+Gene Ontologies: {"0007049"=>"cell cycle", "0051301"=>"cell division", "0000079"=>"regulation of cyclin-dependent protein serine/threonine kinase activity"}
+Kegg Pathways: {}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT2G43010
+Name: 
+Description: 
+Gene Ontologies: {"0009704"=>"de-etiolation", "0009638"=>"phototropism", "0010161"=>"red light signaling pathway", "0010017"=>"red or far-red light signaling pathway", "0009585"=>"red, far-red light phototransduction", "0010600"=>"regulation of auxin biosynthetic process", "0010928"=>"regulation of auxin mediated signaling pathway", "0010244"=>"response to low fluence blue light stimulus by blue low-fluence system"}
+Kegg Pathways: {"ath04075"=>"Plant hormone signal transduction"}
+
+Gene: AT1G71030
+Name: 
+Description: 
+Gene Ontologies: {"0009718"=>"anthocyanin-containing compound biosynthetic process", "0030154"=>"cell differentiation", "0010023"=>"proanthocyanidin biosynthetic process"}
+Kegg Pathways: {}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT1G76080
+Name: 
+Description: 
+Gene Ontologies: {"0045454"=>"cell redox homeostasis", "0042742"=>"defense response to bacterium", "0010286"=>"heat acclimation", "0006979"=>"response to oxidative stress", "0009414"=>"response to water deprivation"}
+Kegg Pathways: {}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT4G02770
+Name: 
+Description: 
+Gene Ontologies: {"0140547"=>"acquisition of seed longevity", "0015979"=>"photosynthesis"}
+Kegg Pathways: {"ath00195"=>"Photosynthesis", "ath01100"=>"Metabolic pathways"}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
+Gene: AT1G14280
+Name: 
+Description: 
+Gene Ontologies: {"0048366"=>"leaf development", "0009638"=>"phototropism", "0009585"=>"red, far-red light phototransduction"}
+Kegg Pathways: {}
+
